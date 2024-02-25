@@ -1,0 +1,2 @@
+timestamp,event_name,email,location,ip,outcome,reason,application,device_info
+Thu Nov 16 22:44:11 UTC 2023,Login,kaimi0705@gmail.com,"Hayward, CA, United States",204.52.109.7,FAIL,PASSWORD_LOGIN_DENIED_FOR_GOOGLE_ACCOUNTS,Fitbit for Android,""
